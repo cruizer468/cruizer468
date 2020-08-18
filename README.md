@@ -41,6 +41,6 @@ Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Cruizer468's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Cruizer468's github stats](https://github-readme-stats.vercel.app/api?username=cruizer468&show_icons=true&hide_border=true)
 
 ⭐️ From [Cruizer468](https://github.com/Cruizer468)

@@ -1,31 +1,29 @@
 ### Hey 👋, I'm Wahyu Muhammad Nouval
 
-<a href="https://www.linkedin.com/in/wahyu-muhammad-nouval-bb72611a7/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/wahyumnou/">
+  <img align="left" alt="Wahyu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/wahyumnou/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Wahyu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/wahyu.smasher">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Wahyu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 <br />
 
-Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software Engineering student** 🚀 from Brawijaya University, currently, I'm studyng Japanesse Language 🙍🏽‍♂️ [@cruizer468](https://github.com/cruizer468), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software Engineering student** 🚀 from Brawijaya University, currently, I'm studyng Japanesse Language 🙍🏽‍♂️ [@cruizer468](https://github.com/cruizer468).
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning NodeJs and Laravel; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m cureently studyng in Software Engineering;
+- 👨🏽‍💻 I’m currently working on my personal projects, you can check my [personal website](https://wahyuportofolio.netlify.app/)
+- 🌱 I’m currently learning VueJs and Laravel; 
+- 🤔 I'm currently fall in love with NuxtJS and Laravel;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via cruizer468@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://wahyu.tech) to get more info.
+- 📫 Please email via wahyumnouval@gmail.com to reach me.
 
 
 **Languages and Tools:**  

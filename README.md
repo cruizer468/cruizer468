@@ -20,8 +20,8 @@ Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on my personal projects, you can check my [personal website](https://wahyuportofolio.netlify.app/)
-- 🌱 I’m currently learning VueJs and Laravel; 
-- 🤔 I'm currently fall in love with NuxtJS and Laravel;
+- 🌱 I’m currently learning Vue js and Laravel; 
+- 🤔 I'm currently fall in love with Vue js,Node js and Laravel;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wahyumnouval@gmail.com to reach me.
 

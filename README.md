@@ -13,14 +13,14 @@
 <br />
 <br />
 
-Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software Engineering student** 🚀 from Bogor Agricultural University, currently, I'm studying Japanesse Language 🙍🏽‍♂️ [@cruizer468](https://github.com/cruizer468).
+Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software Engineering student** 🚀 from Bogor Agricultural University, currently, I Fokus To Back End Developer 🙍🏽‍♂️ [@cruizer468](https://github.com/cruizer468).
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on my personal projects, you can check my [personal website](https://wahyuportofolio.netlify.app/)
-- 🌱 I’m currently learning Vue js and Laravel; 
+- 🌱 I’m currently learning Node js and Laravel; 
 - 🤔 I'm currently fall in love with Vue js,Node js and Laravel;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wahyumnouval@gmail.com to reach me.

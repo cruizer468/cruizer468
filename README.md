@@ -19,9 +19,9 @@ Hi there, I'm **Wahyu Muhammad Nouval**, a **Tech Enthusiast** and a **Software 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on my personal projects, you can check my [personal website](https://wahyuportofolio.netlify.app/)
-- 🌱 I’m currently learning Node js and Laravel; 
-- 🤔 I'm currently fall in love with Vue js,Node js and Laravel;
+- 👨🏽‍💻 I’m currently working on PT ISGS as A RPA Developer , you can check my [personal website](https://wahyuportofolio.netlify.app/)
+- 🌱 I’m currently learning Power Automate and BMC Ctrl M; 
+- 🤔 I'm currently fall in love with Vue js and Node Js;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via wahyumnouval@gmail.com to reach me.
 
